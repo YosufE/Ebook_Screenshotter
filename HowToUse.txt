@@ -1,0 +1,6 @@
+1. Open Ebook
+2. Fullscreen Ebook
+3. change to other workspace
+4. start script
+5. change to ebook workspace
+6. let it do its work
